@@ -2,17 +2,27 @@
   text-align: center;
 }
 
-.App-logo {
+.App-button{
+  width:auto
+}
+
+
+.App-Image {
   height: 40vmin;
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+  .App-Image {
     animation: App-logo-spin infinite 20s linear;
   }
 }
 
+.App-Button {
+  width: 100%;
+
+
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
